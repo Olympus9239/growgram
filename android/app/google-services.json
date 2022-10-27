@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "826669629383",
+    "project_id": "growgram-95d5e",
+    "storage_bucket": "growgram-95d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826669629383:android:3ae938c0f6c59443f2a3e2",
+        "android_client_info": {
+          "package_name": "com.example.growgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826669629383-hlen1b0pl8dljk8v4rm6b9lf5fgvs2oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKcwZakD_fL6Yu7JKjmQH-t8bqT_o8w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826669629383-hlen1b0pl8dljk8v4rm6b9lf5fgvs2oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826669629383-08np842df04e4thbv4acu2o53n8730uc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.growgram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
